@@ -1,0 +1,23 @@
+﻿Installing assembly 'C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.exe assembly.
+Committing assembly 'C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.exe
+Rolling back assembly 'C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.exe

@@ -1,0 +1,8 @@
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\SimpleMVCForCI.Tests\bin\Debug\SimpleMVCForCI.Tests.dll.config
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\SimpleMVCForCI.Tests\bin\Debug\SimpleMVCForCI.Tests.dll
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\SimpleMVCForCI.Tests\bin\Debug\SimpleMVCForCI.Tests.pdb
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\SimpleMVCForCI.Tests\bin\Debug\SimpleMVCForCI.dll
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\SimpleMVCForCI.Tests\bin\Debug\SimpleMVCForCI.pdb
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\SimpleMVCForCI.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\SimpleMVCForCI.Tests\obj\Debug\SimpleMVCForCI.Tests.dll
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\SimpleMVCForCI.Tests\obj\Debug\SimpleMVCForCI.Tests.pdb

@@ -1,0 +1,11 @@
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.exe
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.pdb
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\WindowsService\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\WindowsService\obj\x86\Debug\WindowsService.Service1.resources
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\WindowsService\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\WindowsService\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\WindowsService\obj\x86\Debug\WindowsService.exe
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\WindowsService\obj\x86\Debug\WindowsService.pdb
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\WindowsService\obj\x86\Debug\WindowsService.ProjectInstaller.resources
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.postsync.cmd
+c:\documents and settings\david\my documents\visual studio 2010\Projects\SimpleMVCForCI\WindowsService\bin\Debug\WindowsService.presync.cmd
